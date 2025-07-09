@@ -5,5 +5,5 @@
   "updateUrl": "https://play.google.com/store/apps/details?id=com.tml.busycall",
   "forceUpdate": false,
   "cardAddStatus": true,
-  "rewardAddStatus": false
+  "rewardAddStatus": true
 }
