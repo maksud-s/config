@@ -3,7 +3,7 @@
   "latestVersionName": "1.0",
   "updateMessage": "A new version of Status Saver Pro is available with important bug fixes and new features!",
   "updateUrl": "https://play.google.com/store/apps/details?id=com.TheMysteryLens.saverpro",
-  "Stockurl": "http://localhost:3200/stock-list",
+  "Stockurl": "http://192.168.0.171:3200",
   "forceUpdate": false,
   "cardAddStatus": false,
   "rewardAddStatus": false
