@@ -4,6 +4,6 @@
   "updateMessage": "Naya update aa gaya hai! App ab aur fast, smooth aur behtar experience ke saath kaam karega. Update zaroor karein.",
   "updateUrl": "https://play.google.com/store/apps/details?id=com.TheMysteryLens.saverpro",
   "forceUpdate": true,
-  "cardAddStatus": false,
+  "cardAddStatus": true,
   "rewardAddStatus": false
 }
